@@ -1,0 +1,11 @@
+node_modules/
+dist/
+keys/*
+.env
+.env.*
+*.log
+.DS_Store
+package-lock.json
+token.json
+.claude/settings.local.json
+!.env.example
